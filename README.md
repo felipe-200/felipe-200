@@ -1,5 +1,7 @@
-### Hi there 👋
+### Olá, eu sou o Felipe Jorge 👋
 
+- 🔭 Atualmente sou dev front-end
+- 🌱 Estou estudando NodeJS e TypeScript
 <!--
 **felipe-200/felipe-200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,9 +41,6 @@ https://github.com/anuraghazra/github-readme-stats
   <a href="https://instagram.com/flp3_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a> 
   <a href = "mailto:fellypehsousa10@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>

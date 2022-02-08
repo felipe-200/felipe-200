@@ -1,7 +1,6 @@
 ### Olá, eu sou o Felipe Jorge 👋
 
-- 🔭 Atualmente sou dev front-end
-- 🌱 Estou estudando NodeJS e TypeScript
+- 🔭 Em busca de novas oportunidades no mercado, meu foco é desenvolvimento fron-end, porém consigo desenvolver no back-end.
 <!--
 **felipe-200/felipe-200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
